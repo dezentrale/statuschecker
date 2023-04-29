@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    max-height: 200px;
+}
+
+.status {
+    font-size: 24px;
+    text-align: center;
+}
